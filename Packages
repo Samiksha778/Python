@@ -1,0 +1,60 @@
+PYTHON PACKGES
+
+1.TensorFlow:If you are currently working on a machine learning project in Python, then you may have heard about this popular open source library known as TensorFlow.
+TensorFlow works like a computational library for writing new algorithms that involve a large number of tensor operations, since neural networks can be easily expressed as computational graphs they can be implemented using TensorFlow as a series of operations on Tensors. Plus, tensors are N-dimensional matrices which represent your data.
+
+TensorFlow uses:
+You are using TensorFlow daily but indirectly with applications like Google Voice Search or Google Photos. These applications are developed using this library.
+
+2.Scikit-Learn:It is a Python library is associated with NumPy and SciPy. It is considered as one of the best libraries for working with complex data.
+There are a lot of changes being made in this library. One modification is the cross-validation feature, providing the ability to use more than one metric. Lots of training methods like logistics regression and nearest neighbors have received some little improvements.
+
+Scikit-Learn Uses:
+It contains a numerous number of algorithms for implementing standard machine learning and data mining tasks like reducing dimensionality, classification, regression, clustering, and model selection.
+
+3.Keras:Keras is considered as one of the coolest machine learning libraries in Python. It provides an easier mechanism to express neural networks. Keras also provides some of the best utilities for compiling models, processing data-sets, visualization of graphs, and much more.
+In the backend, Keras uses either Theano or TensorFlow internally. Some of the most popular neural networks like CNTK can also be used.
+
+Keras Uses:
+You are already constantly interacting with features built with Keras — it is in use at Netflix, Uber, Yelp, Instacart, Zocdoc, Square, and many others. It is especially popular among startups that place deep learning at the core of their products.
+Keras contains numerous implementations of commonly used neural network building blocks such as layers, objectives, activation functions, optimizers and a host of tools to make working with image and text data easier.
+
+4.PyTorch:PyTorch is the largest machine learning library that allow developers to perform tensor computations wan ith acceleration of GPU, creates dynamic computational graphs, and calculate gradients automatically. Other than this, PyTorch offers rich APIs for solving application issues related to neural networks.
+This machine learning library is based on Torch, which is an open source machine library implemented in C with a wrapper in Lua.
+
+PyTorch Uses:
+PyTorch is primarily used for applications such as natural language processing.
+It is primarily developed by Facebook’s artificial-intelligence research group and Uber’s “Pyro” software for probabilistic programming is built on it.
+
+5.LightGBM:Gradient Boosting is one of the best and most popular machine learning library, which helps developers in building new algorithms by using redefined elementary models and namely decision trees. Therefore, there are special libraries which are designed for fast and efficient implementation of this method.
+These libraries are LightGBM, XGBoost, and CatBoost. All these libraries are competitors that helps in solving a common problem and can be utilized in almost the similar manner.
+
+LightGBM Uses:
+These library provides provide highly scalable, optimized, and fast implementations of gradient boosting, which makes it popular among machine learning developers. Because most of the machine learning full stack developers won machine learning competitions by using these algorithms.
+
+6.Eli5:Most often the results of machine learning model predictions are not accurate, and Eli5 machine learning library built in Python helps in overcoming this challenge. It is a combination of visualization and debug all the machine learning models and track all working steps of an algorithm.
+
+Eli5 Uses:
+Mathematical applications which requires a lot of computation in a short time.
+Eli5 plays a vital role where there are dependencies with other Python packages.
+Legacy applications and implementing newer methodologies in various fields.
+
+7.SciPy:SciPy is a machine learning library for application developers and engineers. However, you still need to know the difference between SciPy library and SciPy stack. SciPy library contains modules for optimization, linear algebra, integration, and statistics.
+
+SciPy Uses:
+SciPy is a library that uses NumPy for the purpose of solving mathematical functions. SciPy uses NumPy arrays as the basic data structure, and comes with modules for various commonly used tasks in scientific programming.
+Tasks including linear algebra, integration (calculus), ordinary differential equation solving and signal processing are handled easily by SciPy.
+
+8.Theano:Theano is a computational framework machine learning library in Python for computing multidimensional arrays. Theano works similar to TensorFlow, but it not as efficient as TensorFlow. Because of its inability to fit into production environments.
+
+Moreover, Theano can also be used on a distributed or parallel environments just similar to TensorFlow.
+
+Theano Uses:
+The actual syntax of Theano expressions is symbolic, which can be off putting to beginners used to normal software development. Specifically, expression are defined in the abstract sense, compiled and later actually used to make calculations.
+It was specifically designed to handle the types of computation required for large neural network algorithms used in Deep Learning. It was one of the first libraries of its kind (development started in 2007) and is considered an industry standard for Deep Learning research and development.
+
+9.Pendulum:Pendulum is a python package which is used to determine pendulum. It make life a lot of easier when it comes to work with date and time. You code will still work if you replace every elements of DateTime. With Pendulum, you can parse DateTime, and display datetime with time zone. So basically Pendulum is improved version of Arrow library and it have all the handy methods like rounding, truncating, converting, parsing, formatting, and arithmetic.
+
+10.PyFlux:Pyflux is a python library which is used to predict and analysis time series. It is developed by Ross Taylor, this library have many options for interface and contain many new classes of model types. Pyflux allow users to implement many modern time series models like GARCH and predict the nature that how it will react in future.
+
+ 
